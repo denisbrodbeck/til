@@ -12,3 +12,8 @@ variety of languages and technologies. Inspired by [github.com/jbranchaud](https
 ## openssl
 
 * [Create a self-signed ECDSA certificates](openssl/create-self-signed-ecdsa-certificates.md)
+
+## ssh
+
+* [Secure SSH](ssh/secure-ssh.md)
+* [Create very secure ed25519 ssh certificates](ssh/create-very-secure-ssh-certificate.md)
