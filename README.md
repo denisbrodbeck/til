@@ -8,6 +8,7 @@ variety of languages and technologies. Inspired by [github.com/jbranchaud](https
 ## it
 
 * [Installing a Domain Controller with Server 2019 Core](it/installing-a-domain-controller-with-server-2019-core.md)
+* [Mount network shares with powershell](it/mount-network-share-with-powershell.md)
 
 ## openssl
 
