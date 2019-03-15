@@ -18,3 +18,8 @@ variety of languages and technologies. Inspired by [github.com/jbranchaud](https
 
 * [Secure SSH](ssh/secure-ssh.md)
 * [Create very secure ed25519 ssh certificates](ssh/create-very-secure-ssh-certificate.md)
+
+## security
+
+* Really good resource: [cryptographic-right-answers](https://latacora.singles/2018/04/03/cryptographic-right-answers.html)
+* Paragonie is well known in the security community: [The Definitive 2019 Guide to Cryptographic Key Sizes and Algorithm Recommendations](https://paragonie.com/blog/2019/03/definitive-2019-guide-cryptographic-key-sizes-and-algorithm-recommendations)
