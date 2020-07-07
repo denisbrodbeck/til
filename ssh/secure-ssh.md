@@ -1,4 +1,8 @@
-# Secure SSH
+---
+title: Secure SSH
+date: 2018-05-12
+tags: ["os", "it", "security", "ssh"]
+---
 
 Good reference at [mozilla](https://infosec.mozilla.org/guidelines/openssh) and [stribika](https://stribika.github.io/2015/01/04/secure-secure-shell.html).
 

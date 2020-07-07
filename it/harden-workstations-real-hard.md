@@ -1,7 +1,7 @@
 ---
 title: "Harden Windows 10 workstations real hard with AppLocker and MS Security Baseline"
-date: 2019-11-26T17:43:44+01:00
-tags: ["os", "it", "security"]
+date: 2019-11-26
+tags: ["os", "it", "security", "AppLocker"]
 ---
 
 ## Requirements

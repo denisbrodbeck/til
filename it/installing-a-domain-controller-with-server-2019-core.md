@@ -1,4 +1,8 @@
-# Installing a Domain Controller with Server 2019 Core
+---
+title: Installing a Domain Controller with Server 2019 Core
+date: 2018-11-24
+tags: ["os", "it", "server", "powershell", "windows"]
+---
 
 ## Core Network Planning Sheet
 

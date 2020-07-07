@@ -1,4 +1,8 @@
-# Mount network shares with powershell
+---
+title: Mount network shares with powershell
+date: 2018-12-12
+tags: ["os", "it", "server", "powershell", "windows"]
+---
 
 **WARN** Using hard credentials is very insecure - the share should be mounted using the current user's windows credentials.
 

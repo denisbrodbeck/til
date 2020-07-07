@@ -1,4 +1,8 @@
-# Create self-signed ECDSA certificates
+---
+title: Create self-signed ECDSA certificates
+date: 2018-06-21
+tags: ["os", "it", "security", "openssl"]
+---
 
 TODO: clean article up
 

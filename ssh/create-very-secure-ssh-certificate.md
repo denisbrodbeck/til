@@ -1,4 +1,8 @@
-# Create very secure ed25519 ssh certificates
+---
+title: Create very secure ed25519 ssh certificates
+date: 2018-05-12
+tags: ["os", "it", "security", "ssh"]
+---
 
 ```bash
 ssh-keygen -a 100 -t ed25519 -C "Your Name | 2018-12-05 | dev"
